@@ -1,4 +1,4 @@
-# Welcome to my Data Analyst Portfolio
+# Welcome to my Data Analyst Projects
 - 👋 Hi, I’m Chawit
 - 👀 I’m interested in Data Analytics and Data Science.
 

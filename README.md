@@ -1,6 +1,5 @@
 # Welcome to my Data Analyst Projects
 - 👋 Hi, I’m Chawit
-- 👀 I’m interested in Data Analytics and Data Science.
 
 <!---
 ChawitTe/ChawitTe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

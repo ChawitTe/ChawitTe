@@ -1,4 +1,4 @@
-# Welcome to my Data Analyst Projects
+# Welcome to my data analyst projects
 - 👋 Hi, I’m Chawit
 - Here you'll find various projects where I've applied my skills in data cleansing, analysis,
 and visualization. I have experience working with SQL, Python, R, Openrefine,
